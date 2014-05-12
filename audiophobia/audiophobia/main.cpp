@@ -9,7 +9,7 @@
 #include <iostream>
 #include <cstring>
 using namespace std;
-#define MAX 1000
+#define MAX 1000000
 
 int main()
 {
